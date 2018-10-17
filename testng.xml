@@ -1,0 +1,7 @@
+<suite name="GameTest">
+	<test name="GameLogoutLoginTest">
+		<classes>
+			<class name="gameSeleniumTest.ChromeTest" />
+		</classes>
+	</test>
+</suite>
